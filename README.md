@@ -1,3 +1,5 @@
+![logo](/img/official_lehigh_white.png)
+
 # LehighBiologyPodcast
 Contains links to the Google LM podcast, and a file to download if that does not work.
 
@@ -11,6 +13,4 @@ If you are unable to access the Google LM link, then an alternative is to downlo
 https://drive.google.com/file/d/1Aw0jh6RWJn3jhXWfGymq3rM_ouBpTVBH/view?usp=sharing 
 
 # Enjoy!
-
-
 
